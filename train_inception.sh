@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python inception_v3_train_val.py
